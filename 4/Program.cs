@@ -2,7 +2,7 @@
 
 namespace Program1 {
     class test1 {
-        static void Main() {
+        Public static void Main() {
 
 int x = Convert.ToInt32(Console.ReadLine());
 Double y;
