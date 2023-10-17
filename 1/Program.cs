@@ -2,7 +2,7 @@
 
 namespace Program {
     class test1 {
-        static void Main() {
+    Public static void Main() {
 
 int n;
     int a;
