@@ -2,7 +2,7 @@
 
 namespace Program1 {
     class test1 {
-        static void Main() {
+        Public static void Main() {
  int i,j;
         	int[,] arr = new int[3,3];
             int determinant=0;
