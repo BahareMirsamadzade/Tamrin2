@@ -2,7 +2,7 @@
 
 namespace Program1 {
     class test1 {
-        static void Main() {
+        Public static void Main() {
 int i, j, n1, n2, temp;
 
   Console.WriteLine("Enter n1 & n2:");
